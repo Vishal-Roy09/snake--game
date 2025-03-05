@@ -1,5 +1,5 @@
 
-# SnakeMania - Ek Gaming Katha
+# Snake-game
 
 ## Overview
 SnakeMania is a fun and interactive Snake Game built using **HTML, CSS, and JavaScript**. The objective of the game is to control the snake, eat food, and avoid collisions with the walls or itself.
